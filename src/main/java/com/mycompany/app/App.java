@@ -3,6 +3,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  * change
+ * change2
  */
 public class App {
 
